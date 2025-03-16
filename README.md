@@ -8,10 +8,12 @@
 ```
 git clone https://github.com/abhrajyoti-01/rock_paper_game.git
 ```
-> 4. You will see this Node.js file
-> 5. Now run:
+> 4. You will see a folder named rock_paper_game
+> 5. Open it
+> 6. Now run:
 ```
 node rock_paper.js
 ```
 
+***Thanks for using the code***
 
